@@ -1,0 +1,109 @@
+/*overall css and css for maths.html*/
+body {
+    color: #eb93d0;
+    border: double 5px #490b36;
+    margin: 20px;
+    padding: 26px;
+
+}
+.headpic {
+    position: relative;
+    left: 9%;
+
+}
+.title {
+    right: 10%;
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    text-shadow: 4px 4px 3px rgb(80, 181, 228);
+}
+
+h3 {
+    color: #3f032d;
+    font-size: 28px;
+    text-align: center;
+    text-shadow: 4px 4px 3px rgb(80, 181, 228);
+}
+.emo {
+    position: relative;
+    left: 25%;
+}
+p {
+    text-align: justify;
+    font-size: 25px;
+    color: #3f032d;
+}
+.diagram {
+    position: relative;
+    left: 10%;
+}
+.links {
+    font-size: 25px;
+    color: #3f032d;
+}
+hr {
+    border: 4px solid rgb(55, 5, 68);
+
+}
+a:hover {
+    background-color: rgb(233, 132, 211);
+  }
+footer {
+    background-color: bisque;
+    color: navy;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
+/*css extras for exercise.html*/
+.veg {
+    position: relative;
+    left: 30%;
+}
+.walk {
+    position: relative;
+    right: 2%;
+    padding: 5%;
+}
+span {
+    color: red;
+}
+ol {
+    list-style-type: circle;
+}
+.a {
+    list-style-type: decimal-leading-zero;
+    color: aqua;
+    font-size: 25px;
+}
+
+.diary {
+    position: relative;
+    left: 10%;
+    border: ridge 10px rgb(36, 20, 5);
+}
+
+.table, th, tr, td {
+    border: 4px solid rgb(69, 69, 151);
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(112, 30, 44);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+table.center {
+        margin-left:auto; 
+        margin-right:auto;
+      }
+/*css for motivation page*/
+.goal {
+    position: relative;
+    left: 10%;
+}
+/*css for Events page*/
+.party {
+    position: relative;
+    left: 2%;
+}

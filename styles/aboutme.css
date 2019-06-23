@@ -1,0 +1,22 @@
+.mypic {
+    position: relative;
+    border: solid 3px black;
+   
+}
+
+
+.top .text {
+    float: right;
+    color: #8640be;
+}
+h2 {
+    color: #8640be;
+}
+.last {
+    color: #096a6d;
+    font-size: 26px;
+}
+.mother {
+    color: #096a6d;
+    font-size: 26px;
+}

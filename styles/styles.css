@@ -1,0 +1,123 @@
+body {
+    background-color: #cadbf7;
+    margin: 20px;
+    padding: 20px;
+}
+.header {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    color: #e0c6a8;
+    font-size: 30px;
+    text-shadow: 3px 3px #272420;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrbLLmQ8Rlk4OgWCMFxCwnlfZwmwdAD7OS9qIW1vVyxmoNYqmmA");
+    border: double 20px #3d3935;
+    text-align: center;
+}
+.intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 26px;
+    text-shadow: 3px 3px 3px white;
+    padding-top: 15%;
+    padding-bottom: 8px;
+}
+.red {
+    color: red;
+}
+.points {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 600;
+    color: #472266;
+}
+p {
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.list-points {
+    color: #096a6d;
+    font-size: 24px;
+    
+}
+.exercise {
+    position: relative;
+    left: 330px;
+}
+.diet {
+    position: relative;
+    left: 220px;
+}
+.foot {
+    position: relative;
+    left: 200px;
+}
+/*about me styles*/
+.mypic {
+    position: relative;
+    border: solid 5px rgb(17, 11, 104);
+    margin: 10px;
+    padding: 10px;
+   
+}
+.text {
+    float: right;
+    color: #8640be;
+}
+h2 {
+    color: #8640be;
+}
+.last {
+    color: #096a6d;
+    font-size: 26px;
+}
+.mother {
+    position: absolute;
+    right: 10%;
+    bottom: 60%;
+    color: #096a6d;
+    font-size: 26px;
+}
+.top {
+    color: rgb(17, 11, 104);
+}
+
+.preg {
+    position: relative;
+    left: 15%;
+}
+.dance {
+    position: relative;
+    left: 15%;
+}
+.abuse {
+    position: relative;
+    left: 23%;
+}
+.fatme {
+    position: relative;
+    left: 18%;
+}
+.new {
+    position: relative;
+    left: 15%;
+}
+.splash {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+a:hover {
+    background-color: rgb(233, 132, 211);
+  }
+footer {
+    background-color: bisque;
+    color: navy;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
