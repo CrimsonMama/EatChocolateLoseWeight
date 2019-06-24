@@ -64,6 +64,34 @@ p {
     padding: 10px;
    
 }
+#hero-container {
+    position: relative;
+  }
+  
+  #center-text {
+    z-index: 100;
+    position: absolute;
+    color: #096a6d;
+    font-weight: bold;
+    left: 45%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+    
+  #text {
+    font-size: 3vw;
+    margin: 0;
+  }
+      
+  #text2 {
+    font-size: 2vw;
+    margin: 0;
+  }
+      
+  #hero-container img {
+    width: 40%;
+    height: 15%;
+  }
 .text {
     float: right;
     color: #8640be;
