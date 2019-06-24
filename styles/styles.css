@@ -77,7 +77,8 @@ h2 {
 }
 .mother {
     position: absolute;
-    text-align: right;
+    text-align: left;
+    margin-left: 60%;
     bottom: 60%;
     color: #096a6d;
     font-size: 100%;
